@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **tntamir2023@gmail.com**
 
-- ⚡ Fun fact **once solved a tricky Django problem in his sleep—turns out, great ideas come when you least expect them!**
+- ⚡ Fun fact **once solved a tricky Django problem in my sleep—turns out, great ideas come when you least expect them!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
